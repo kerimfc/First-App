@@ -1,0 +1,34 @@
+{
+    "yazilar":[
+        {
+            "ad":"Yeni Başlayanlar İçin C#",
+            "aciklama":"Lorem ipsum dolar sit amet",
+            "yazar":"luffy",
+            "id":1
+          },
+          {
+            "ad":"React öğreniyorum",
+            "aciklama":"Lorem ipsum dolar sit amet",
+            "yazar":"zoro",
+            "id":2
+          },
+          {
+            "ad":"İleri seviye C#",
+            "aciklama":"Lorem ipsum dolar sit amet",
+            "yazar":"luffy",
+            "id":3
+          },
+          {
+            "ad":"MVC öğreniyorum",
+            "aciklama":"Lorem ipsum dolar sit amet",
+            "yazar":"sanji",
+            "id":4
+          },
+          {
+            "ad":"Flutter Giriş Seviye",
+            "aciklama":"Lorem ipsum dolar sit amet",
+            "yazar":"develop",
+            "id":5
+          }
+    ]
+}
